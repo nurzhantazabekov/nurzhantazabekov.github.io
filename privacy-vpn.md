@@ -1,4 +1,4 @@
-VPN Casper App Privacy Policy
+# VPN Casper App Privacy Policy
 
 VPN Casper operates the https://play.google.com/store/apps/details?id=com.vpncasper.proxylist website, which provides the SERVICE.
 
